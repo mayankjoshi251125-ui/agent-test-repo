@@ -1,5 +1,4 @@
 from app.agent import create_github_agent
-"hello.............."
 
 def main():
     agent = create_github_agent()
